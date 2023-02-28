@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(238, 221, 197);
+  }
+  
+  h1 {
+    color: rgb(226, 55, 43);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 38px;
+    margin: 30px;
+  }
+  h2 {
+    color: rgb(200, 69, 40);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin: 10px;
+  }
+  p {
+    color: rgb(24, 7, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  figcaption {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    text-align: center;
+    padding: 5px;
+    color: rgb(46, 46, 46);
+    font-size: 13px;
+    
+  }
+  img {
+    border-radius: 8px;
+  }
+  strong {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  }
+  h3 {
+    color: rgb(200, 69, 40);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    margin: 10px;
+  }
